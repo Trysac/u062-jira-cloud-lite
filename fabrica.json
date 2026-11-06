@@ -1,0 +1,1 @@
+{"lang": "go", "package": "github.com/Trysac/u062-jira-cloud-lite", "commands": {"install": [["go", "mod", "download"]], "check": [["go", "run", "./scripts/check"]]}}
